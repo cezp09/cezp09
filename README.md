@@ -14,9 +14,12 @@
  
  🌱 I’m currently learning **Python, Lua, C++**
 
+ 🪵 Previously ran a minecraft network
+
 💬 Ask me about anything [here](https://github.com/cezp09/cezp09/issues)**
 
 ⚡ Fun fact **Firefox’s logo isn’t a fox—it’s actually a red panda**
+
 
  </div>
  
